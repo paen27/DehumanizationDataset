@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+type: dataset
+message: "If you find this data useful in your research, please consider citing:"
+authors:
+- family-names: "Engelmann"
+  given-names: "Paul"
+- family-names: "Trolle"
+  given-names: "Peter, Brunsgaard"
+- family-names: "Hardmeier"
+  given-names: "Christian"
+title: "A Dataset for the Detection of Dehumanizing Language"
+publisher: "Association for Computational Linguistics"
+
+date-released: 2024
+url: "https://aclanthology.org/2024.ltedi-1.2"
